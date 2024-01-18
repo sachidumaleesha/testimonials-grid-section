@@ -1,6 +1,6 @@
 # Frontend Mentor - Testimonials grid section
 
-![Design preview for the Testimonials grid section coding challenge](./design/desktop-preview.jpg)
+![desktop-preview](https://github.com/sachidumaleesha/testimonials-grid-section/assets/45502921/bd940c0c-006c-4644-a39c-55173576607c)
 
 ## Welcome! 
 
